@@ -35,7 +35,7 @@ public class Solution {
         
         // Print array's elements as a single line of space-separated values:
         for(int i : numbers) {
-            System.out.print(i + " ");
+            System.out.print(i +  " ");
         }
         System.out.println();
     } 
